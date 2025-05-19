@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Glory Obi
 - 👀 I’m interested in Social developments and data anlysis
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m continually learning Data Analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/glory-obi-711876289/
 - Email: gloryobi98@gmail.com
