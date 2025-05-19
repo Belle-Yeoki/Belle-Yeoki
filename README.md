@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/glory-obi-711876289/
+- Email: gloryobi98@gmail.com
 - ⚡ Fun fact i enjoy cookig and meeting strangers.
 
 <!---
